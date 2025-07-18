@@ -1,0 +1,15 @@
+# a,b,c,d = input().split()
+# print(a)
+# print(b)
+# print(c)
+# print(d)
+
+s = "kshitishkumarpothal"
+print(s[-5])
+print(s[:-5])
+print(s[2:8])
+print(s[-1:-6:-1])
+print(s[5:-8])
+print(s[::-2])
+print(s[::-3])
+print(s[::-1])
